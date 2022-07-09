@@ -1,0 +1,610 @@
+{
+    "data": [
+        {
+            "created_at": "2022-07-09T09:38:54.000Z",
+            "id": "1545704034933301250",
+            "text": "@patrickwiral Pforzheim.\nStuttgart.\nLudwigshafen.",
+            "author_id": "1215270783632756736"
+        },
+        {
+            "created_at": "2022-07-09T09:05:00.000Z",
+            "id": "1545695502607474688",
+            "text": "RT @kleinleise: Heute kommen etliche von Ihnen; es wird fast ein Twittertreffen. Falls Wartezeiten entstehen, fragen Sie doch die anderen n…",
+            "author_id": "1270058911022886912"
+        },
+        {
+            "created_at": "2022-07-09T08:40:53.000Z",
+            "id": "1545689434523320320",
+            "text": "RT @kleinleise: Heute kommen etliche von Ihnen; es wird fast ein Twittertreffen. Falls Wartezeiten entstehen, fragen Sie doch die anderen n…",
+            "author_id": "1096513606013853697"
+        },
+        {
+            "created_at": "2022-07-09T08:20:55.000Z",
+            "id": "1545684410367967232",
+            "text": "RT @kleinleise: Heute kommen etliche von Ihnen; es wird fast ein Twittertreffen. Falls Wartezeiten entstehen, fragen Sie doch die anderen n…",
+            "author_id": "1430500064288464902"
+        },
+        {
+            "created_at": "2022-07-09T08:20:08.000Z",
+            "id": "1545684211411177474",
+            "text": "Schwert und mehr bei Fecht-Hut  https://t.co/SzOYjBaGYR #Schule #Training  #SelfDefense #Schwarzwald #Pforzheim #Schwert  #Bartitsu #Kampfkunst #Selbstverteidigung #workshops  #sport https://t.co/XdIWiRzCJp",
+            "author_id": "123258168"
+        },
+        {
+            "created_at": "2022-07-09T08:16:08.000Z",
+            "id": "1545683204778196992",
+            "text": "RT @kleinleise: Heute kommen etliche von Ihnen; es wird fast ein Twittertreffen. Falls Wartezeiten entstehen, fragen Sie doch die anderen n…",
+            "author_id": "1448394527941746692"
+        },
+        {
+            "created_at": "2022-07-09T08:11:15.000Z",
+            "id": "1545681976669212672",
+            "text": "RT @kleinleise: Heute kommen etliche von Ihnen; es wird fast ein Twittertreffen. Falls Wartezeiten entstehen, fragen Sie doch die anderen n…",
+            "author_id": "898620970012991488"
+        },
+        {
+            "created_at": "2022-07-09T08:10:47.000Z",
+            "id": "1545681858645614593",
+            "text": "RT @kleinleise: Diese Woche impfen wir \nDienstag, 05.07.2022 16 - 18 Uhr und\nSamstag, 09.07.2022 von 10 - 12 Uhr.\n\n#Pforzheim #U5 \n2. Boost…",
+            "author_id": "898620970012991488"
+        },
+        {
+            "created_at": "2022-07-09T08:01:38.000Z",
+            "id": "1545679555670802433",
+            "text": "RT @kleinleise: Heute kommen etliche von Ihnen; es wird fast ein Twittertreffen. Falls Wartezeiten entstehen, fragen Sie doch die anderen n…",
+            "author_id": "1192983043734200320"
+        },
+        {
+            "created_at": "2022-07-09T07:59:12.000Z",
+            "id": "1545678945978302467",
+            "text": "RT @kleinleise: Heute kommen etliche von Ihnen; es wird fast ein Twittertreffen. Falls Wartezeiten entstehen, fragen Sie doch die anderen n…",
+            "author_id": "1301129989526560774"
+        },
+        {
+            "created_at": "2022-07-09T07:49:47.000Z",
+            "id": "1545676574443425793",
+            "text": "RT @kleinleise: Heute kommen etliche von Ihnen; es wird fast ein Twittertreffen. Falls Wartezeiten entstehen, fragen Sie doch die anderen n…",
+            "author_id": "3234932265"
+        },
+        {
+            "created_at": "2022-07-09T07:49:28.000Z",
+            "id": "1545676495011684356",
+            "text": "RT @kleinleise: Heute kommen etliche von Ihnen; es wird fast ein Twittertreffen. Falls Wartezeiten entstehen, fragen Sie doch die anderen n…",
+            "author_id": "111371654"
+        },
+        {
+            "created_at": "2022-07-09T07:46:09.000Z",
+            "id": "1545675662635241472",
+            "text": "RT @kleinleise: Heute kommen etliche von Ihnen; es wird fast ein Twittertreffen. Falls Wartezeiten entstehen, fragen Sie doch die anderen n…",
+            "author_id": "1276065476041465863"
+        },
+        {
+            "created_at": "2022-07-09T07:39:32.000Z",
+            "id": "1545673995193929728",
+            "text": "RT @kleinleise: Heute kommen etliche von Ihnen; es wird fast ein Twittertreffen. Falls Wartezeiten entstehen, fragen Sie doch die anderen n…",
+            "author_id": "1262950524"
+        },
+        {
+            "created_at": "2022-07-09T07:25:09.000Z",
+            "id": "1545670374213517318",
+            "text": "RT @kleinleise: Heute kommen etliche von Ihnen; es wird fast ein Twittertreffen. Falls Wartezeiten entstehen, fragen Sie doch die anderen n…",
+            "author_id": "4908589852"
+        },
+        {
+            "created_at": "2022-07-09T07:21:01.000Z",
+            "id": "1545669336077041666",
+            "text": "#StZ: \"Ob sich das Projekt einmal mit der Umnutzung der alten Eisenbahnbrücke für Radfahrer/Fußgänger verknüpfen lässt, steht NATÜRLICH in den Sternen\"\nnaklar, #Stuttgart ist nicht N.Y., aber warum nicht wenigstens Pforzheim oder Oberhausen? #Gaskessel\n#Rosensteinbrücke https://t.co/6N13mvMlnI https://t.co/dZv3Oqhxid",
+            "author_id": "702483013750366208"
+        },
+        {
+            "created_at": "2022-07-09T07:18:50.000Z",
+            "id": "1545668788204539906",
+            "text": "RT @kleinleise: Heute kommen etliche von Ihnen; es wird fast ein Twittertreffen. Falls Wartezeiten entstehen, fragen Sie doch die anderen n…",
+            "author_id": "327328208"
+        },
+        {
+            "created_at": "2022-07-09T07:13:43.000Z",
+            "id": "1545667500570025987",
+            "text": "@christian_neef Mal sehen, ob Sie noch so kriegsbesoffen sind, wenn die Russen Ihren Wohnort bombardiert haben. Oder wenn auf deutschen Boden die ersten taktischen Atomwaffen eingesetzt werden. Schauen Sie sich die Bilder von Dresden oder Pforzheim an. Friedensverhandlungen sofort! https://t.co/0HQOiSE3R6",
+            "author_id": "1129891254"
+        },
+        {
+            "created_at": "2022-07-09T07:12:27.000Z",
+            "id": "1545667178179039232",
+            "text": "RT @kleinleise: Heute kommen etliche von Ihnen; es wird fast ein Twittertreffen. Falls Wartezeiten entstehen, fragen Sie doch die anderen n…",
+            "author_id": "2471444810"
+        },
+        {
+            "created_at": "2022-07-09T07:12:16.000Z",
+            "id": "1545667135405531137",
+            "text": "RT @kleinleise: Heute kommen etliche von Ihnen; es wird fast ein Twittertreffen. Falls Wartezeiten entstehen, fragen Sie doch die anderen n…",
+            "author_id": "970345195"
+        },
+        {
+            "created_at": "2022-07-09T07:09:18.000Z",
+            "id": "1545666385283530753",
+            "text": "RT @kleinleise: Heute kommen etliche von Ihnen; es wird fast ein Twittertreffen. Falls Wartezeiten entstehen, fragen Sie doch die anderen n…",
+            "author_id": "1412718367"
+        },
+        {
+            "created_at": "2022-07-09T06:53:07.000Z",
+            "id": "1545662312891273217",
+            "text": "@patrickwiral Mannheim und Pforzheim",
+            "author_id": "1100840016971005952"
+        },
+        {
+            "created_at": "2022-07-09T06:40:15.000Z",
+            "id": "1545659076322926594",
+            "text": "#Klage eingereicht: Anwohner bremst #Parkhaus-Pläne am Siloah-Krankenhaus in Pforzheim aus: https://t.co/1AkOFxs47R",
+            "author_id": "24165538"
+        },
+        {
+            "created_at": "2022-07-09T06:09:09.000Z",
+            "id": "1545651251035119616",
+            "text": "RT @kleinleise: Heute kommen etliche von Ihnen; es wird fast ein Twittertreffen. Falls Wartezeiten entstehen, fragen Sie doch die anderen n…",
+            "author_id": "922794442553208832"
+        },
+        {
+            "created_at": "2022-07-09T06:06:30.000Z",
+            "id": "1545650581775081472",
+            "text": "RT @kleinleise: Heute kommen etliche von Ihnen; es wird fast ein Twittertreffen. Falls Wartezeiten entstehen, fragen Sie doch die anderen n…",
+            "author_id": "321276683"
+        },
+        {
+            "created_at": "2022-07-09T06:05:37.000Z",
+            "id": "1545650362631200768",
+            "text": "RT @kleinleise: Heute kommen etliche von Ihnen; es wird fast ein Twittertreffen. Falls Wartezeiten entstehen, fragen Sie doch die anderen n…",
+            "author_id": "2549556272"
+        },
+        {
+            "created_at": "2022-07-09T05:52:29.000Z",
+            "id": "1545647057087651841",
+            "text": "RT @wayfu: @Ethylendiamin vermute Essen &gt; Dortmund &gt; Darmstadt &gt; Pforzheim",
+            "author_id": "281413387"
+        },
+        {
+            "created_at": "2022-07-09T05:50:55.000Z",
+            "id": "1545646660004495360",
+            "text": "RT @wayfu: @Ethylendiamin vermute Essen &gt; Dortmund &gt; Darmstadt &gt; Pforzheim",
+            "author_id": "1478025287245967365"
+        },
+        {
+            "created_at": "2022-07-09T05:50:49.000Z",
+            "id": "1545646637585932288",
+            "text": "RT @wayfu: @Ethylendiamin vermute Essen &gt; Dortmund &gt; Darmstadt &gt; Pforzheim",
+            "author_id": "531325229"
+        },
+        {
+            "created_at": "2022-07-09T05:49:15.000Z",
+            "id": "1545646240372768768",
+            "text": "RT @kleinleise: Heute kommen etliche von Ihnen; es wird fast ein Twittertreffen. Falls Wartezeiten entstehen, fragen Sie doch die anderen n…",
+            "author_id": "756611547825377280"
+        },
+        {
+            "created_at": "2022-07-09T05:44:04.000Z",
+            "id": "1545644936573468673",
+            "text": "RT @kleinleise: Heute kommen etliche von Ihnen; es wird fast ein Twittertreffen. Falls Wartezeiten entstehen, fragen Sie doch die anderen n…",
+            "author_id": "1467160864562331650"
+        },
+        {
+            "created_at": "2022-07-09T05:42:29.000Z",
+            "id": "1545644539817467904",
+            "text": "RT @kleinleise: Heute kommen etliche von Ihnen; es wird fast ein Twittertreffen. Falls Wartezeiten entstehen, fragen Sie doch die anderen n…",
+            "author_id": "1028913091558473729"
+        },
+        {
+            "created_at": "2022-07-09T05:42:11.000Z",
+            "id": "1545644464403873792",
+            "text": "RT @kleinleise: Heute kommen etliche von Ihnen; es wird fast ein Twittertreffen. Falls Wartezeiten entstehen, fragen Sie doch die anderen n…",
+            "author_id": "3355261695"
+        },
+        {
+            "created_at": "2022-07-09T05:39:00.000Z",
+            "id": "1545643664696827904",
+            "text": "RT @kleinleise: Heute kommen etliche von Ihnen; es wird fast ein Twittertreffen. Falls Wartezeiten entstehen, fragen Sie doch die anderen n…",
+            "author_id": "2913061971"
+        },
+        {
+            "created_at": "2022-07-09T05:35:44.000Z",
+            "id": "1545642840025350145",
+            "text": "RT @kleinleise: Heute kommen etliche von Ihnen; es wird fast ein Twittertreffen. Falls Wartezeiten entstehen, fragen Sie doch die anderen n…",
+            "author_id": "1322738396838666241"
+        },
+        {
+            "created_at": "2022-07-09T05:32:44.000Z",
+            "id": "1545642086044762113",
+            "text": "RT @kleinleise: Heute kommen etliche von Ihnen; es wird fast ein Twittertreffen. Falls Wartezeiten entstehen, fragen Sie doch die anderen n…",
+            "author_id": "1118474756590796800"
+        },
+        {
+            "created_at": "2022-07-09T05:30:54.000Z",
+            "id": "1545641623022968833",
+            "text": "Heute kommen etliche von Ihnen; es wird fast ein Twittertreffen. Falls Wartezeiten entstehen, fragen Sie doch die anderen nach deren Twitteraccount.\nZACK, neue Follower. \nHabt Fun!\n\n#Pforzheim #U5, 4.Impfung für alle https://t.co/MMwHg0opRL",
+            "author_id": "2753212666"
+        },
+        {
+            "created_at": "2022-07-09T04:11:11.000Z",
+            "id": "1545621562304483328",
+            "text": "#𝐀𝐒𝐁𝐋𝐀𝐍𝐃𝐄𝐒𝐊𝐎𝐍𝐅𝐄𝐑𝐄𝐍𝐙𝟐𝟎𝟐𝟐\n𝟒𝐗 #𝐒𝐚𝐦𝐚𝐭𝐢𝐭𝐞𝐫𝐊𝐫𝐞𝐮𝐳𝐈𝐧𝐆𝐨𝐥𝐝 \nMehr davon...\nhttps://t.co/RZd6koLG08\n\n#ASBbw https://t.co/TWSGkrI7Vr",
+            "author_id": "471227284"
+        },
+        {
+            "created_at": "2022-07-09T03:03:17.000Z",
+            "id": "1545604477121691648",
+            "text": "King Crimson『1974.03.31 Jahnhalle, Pforzheim, Germany』:27枚組16枚目。1974年3月に入っての欧州ツアー，イタリア･フランス･西ドイツと，ほぼ同じレパートリーで毎日のようにライヴショー。ジョン，1曲目から破れかぶれ。",
+            "author_id": "969137942"
+        },
+        {
+            "created_at": "2022-07-08T23:18:23.000Z",
+            "id": "1545547876763320321",
+            "text": "Wir hatten heute einen richtig coolen Nachmittag mit Vertreter*innen aus der Stadt #Pforzheim und aus beiden großen Kirchen zusammen mit @erik_fluegge. Es ging um die Funktionen, die die Kirchen für Kommune und Gesellschaft übernehmen u wie wir uns in Zukunft besser vernetzen (1)",
+            "author_id": "2606233777"
+        },
+        {
+            "created_at": "2022-07-08T23:16:37.000Z",
+            "id": "1545547431437377539",
+            "text": "It wasn't even be too hard to find out, he was the third son of an industrialist from Pforzheim. People just really didn't care about the authenticity of the claim",
+            "author_id": "954283519580221440"
+        },
+        {
+            "created_at": "2022-07-08T23:03:33.000Z",
+            "id": "1545544146450014220",
+            "text": "Neuer #Minijob in #Pforzheim: Job (m/w/d) für Quereinsteiger / Mitarbeiter für Baumärkte in Pforzheim\n#Job #Aushilfe #Nebenjob #Stellenangebot\n\nJetzt bewerben!\nhttps://t.co/9nkeXWVjtH",
+            "author_id": "1069583615762288642"
+        },
+        {
+            "created_at": "2022-07-08T21:56:56.000Z",
+            "id": "1545527381607301125",
+            "text": "@pznews Oechsle Fest in Pforzheim: Zwei Wirte sind raus, ein neuer dabei - Pforzheim - Pforzheimer-Zeitung https://t.co/SLOFnNIIpi @ali_oechsle @hs_pforzheim",
+            "author_id": "878964397103775744"
+        },
+        {
+            "created_at": "2022-07-08T21:47:29.000Z",
+            "id": "1545525000383471616",
+            "text": "@pznews Brücken-Panne an der A8 bei Pforzheim: Was genau passt an den Betonteilen nicht? - Region - Pforzheimer-Zeitung https://t.co/PcXlZs2SuQ @SZ_TopNews @hs_pforzheim @blickaktuell",
+            "author_id": "878964397103775744"
+        },
+        {
+            "created_at": "2022-07-08T21:20:11.000Z",
+            "id": "1545518133154308097",
+            "text": "Create A Club im 'Fifa22 #Karrieremodus - es geht weiter mit UFFC Pforzheim, nach dem Aufstieg in Liga 2 wird es spannend!  https://t.co/j3AdILWkef",
+            "author_id": "1375959707689615364"
+        },
+        {
+            "created_at": "2022-07-08T20:36:37.000Z",
+            "id": "1545507169264607232",
+            "text": "Die B10 zwischen Eutingen und Niefern wird am 23. und 24. Juli in beide Fahrtrichtungen gesperrt. Die Anschlussstelle Pforzheim-Ost ist davon auch betroffen. https://t.co/oIuNcZ0mxt",
+            "author_id": "806082807562960896"
+        },
+        {
+            "created_at": "2022-07-08T20:20:02.000Z",
+            "id": "1545502994292101121",
+            "text": "MÜSİAD Karlsruhe Çıtayı Yükseltti: MÜSİAD Karlsruhe Başkanı Kâmil Manzak ve Ekibi, Alman resmi makamlarıyla iş birliği çerçevesini artırıyor. Karlsruhe Büyükşehir Belediyesi ve İHK ile çalışmaların yansıra, Eylül veya Ekim aylarında Pforzheim Büyükşehir… https://t.co/kpqtpsyrIx",
+            "author_id": "1325534811826565126"
+        },
+        {
+            "created_at": "2022-07-08T20:01:48.000Z",
+            "id": "1545498405480407043",
+            "text": "@jurtenmaurer Mit 45 Sachen von Karlsruhe hoch Richtung Pforzheim. Geile Zeiten",
+            "author_id": "783003137183449092"
+        },
+        {
+            "created_at": "2022-07-08T19:51:32.000Z",
+            "id": "1545495822049021952",
+            "text": "#PZnews #Pforzheim #Verkehr #Aufreger Brücken-Panne an der A8 bei Pforzheim: Was genau passt an den Betonteilen nicht? - Region - Pforzheimer-Zeitung https://t.co/Xq7kXKd15E",
+            "author_id": "1504855210648391684"
+        },
+        {
+            "created_at": "2022-07-08T19:50:13.000Z",
+            "id": "1545495492473356291",
+            "text": "@pznews Brücken-Panne an der A8 bei Pforzheim: Was genau passt an den Betonteilen nicht? - Region - Pforzheimer-Zeitung https://t.co/PcXlZs2SuQ @hs_pforzheim @JSigmaringen",
+            "author_id": "878964397103775744"
+        },
+        {
+            "created_at": "2022-07-08T19:30:35.000Z",
+            "id": "1545490550547255298",
+            "text": "Brücken-Panne an der #A8 bei #Pforzheim: Was genau passt an den Betonteilen nicht?\nhttps://t.co/W37IYGSu4C",
+            "author_id": "24165538"
+        },
+        {
+            "created_at": "2022-07-08T19:26:17.000Z",
+            "id": "1545489468588789762",
+            "text": "Unbekannte haben in der Nacht zum Donnerstag 400 Tiere aus einer Fischzucht in #Neuenbürg gestohlen. Etwas anderes ärgert Züchter Andreas Zordel noch mehr.\nhttps://t.co/8q4NZuKp7Z",
+            "author_id": "806082807562960896"
+        },
+        {
+            "created_at": "2022-07-08T19:16:46.000Z",
+            "id": "1545487070575173632",
+            "text": "Waar blijft de tijd? 8/9 juli 2005 Volksfeststimmung in de Gouden stad @stadt_pforzheim . Start 8e etappe Tour de France naar Gerardmer. Winnaar: Pieter \"Harekiet\" Weening. Voorts o.a. gespot Armstrong, Wüst, Hannawald, Ulrich, \"Eule\", Leblanc, Altig, Valverde, Klöden en Wegmann https://t.co/dSGJIvGOLo",
+            "author_id": "1710013134"
+        },
+        {
+            "created_at": "2022-07-08T19:12:24.000Z",
+            "id": "1545485971889733634",
+            "text": "RT @risemelbourne: Pforzheim Germany 🇩🇪 Anti Pandemic BS, Anti Everything 👊 The Freedoms you lose today will 𝙉𝙚𝙫𝙚𝙧 be returned...So do 𝙒𝙝𝙖𝙩…",
+            "author_id": "1485328041597415427"
+        },
+        {
+            "created_at": "2022-07-08T18:06:37.000Z",
+            "id": "1545469417135300613",
+            "text": "@Paulaballa954 @AfroPinup @residentcommie Her father was German. He was born in Pforzheim. His name was Carl Wilhelm. This has been known and never disputed. Stop trolling &amp; spreading misinformation",
+            "author_id": "2595812168"
+        },
+        {
+            "created_at": "2022-07-08T17:45:50.000Z",
+            "id": "1545464189988360192",
+            "text": "RT @MkangoResources: Mkango &amp; #HyProMag pleased to be part of of this €14m project to strengthen #RareEarths supply chains - also great to…",
+            "author_id": "1345490644261871617"
+        },
+        {
+            "created_at": "2022-07-08T16:56:05.000Z",
+            "id": "1545451667029495808",
+            "text": "SYNLAB strengthens pathology leadership position in Germany by acquiring Institute for Pathology and Molecular Pathology Pforzheim - SYNLAB: SYNLAB strengthens pathology leadership position in Germany by acquiring Institute for Pathology and Molecular… https://t.co/EZPODPd8z4",
+            "author_id": "751405005928816640"
+        },
+        {
+            "created_at": "2022-07-08T16:52:39.000Z",
+            "id": "1545450803124658176",
+            "text": "@mikrowie Geniale Auswertung, vielen Dank. Krass zu sehen, wie sich die Verhältnisse Enzkreis/Pforzheim invertieren. Lang vermutet, jetzt belegt.",
+            "author_id": "1470059613475291136"
+        },
+        {
+            "created_at": "2022-07-08T15:52:31.000Z",
+            "id": "1545435669299924995",
+            "text": "RT @MkangoResources: Mkango &amp; #HyProMag pleased to be part of of this €14m project to strengthen #RareEarths supply chains - also great to…",
+            "author_id": "26490935"
+        },
+        {
+            "created_at": "2022-07-08T15:48:40.000Z",
+            "id": "1545434704018644992",
+            "text": "Die Marke „Vollmer“ feiert Geburtstag: Bereits seit 100 Jahren fertigt das Unternehmen Metall-Uhrarmbänder und Bandgehäuse. Oberbürgermeister Peter Boch überreichte eine Jubiläumsplakette der Stadt Pforzheim https://t.co/yvFI4U95hM https://t.co/afISr1F3jL",
+            "author_id": "246252394"
+        },
+        {
+            "created_at": "2022-07-08T15:32:28.000Z",
+            "id": "1545430626827894786",
+            "text": "Sorge um die psychische Gesundheit von Jugendlichen in #Pforzheim wächst: https://t.co/vFL5drSVpY",
+            "author_id": "24165538"
+        },
+        {
+            "created_at": "2022-07-08T15:08:32.000Z",
+            "id": "1545424602209320960",
+            "text": "@ReichelJonas @patrickwiral Pforzheim.",
+            "author_id": "3035418809"
+        },
+        {
+            "created_at": "2022-07-08T15:02:26.000Z",
+            "id": "1545423067958181897",
+            "text": "Hi Valentin! 👋🏻 \n\nHerzlich Willkommen im anybill-Team! 🚀⁠\n⁠\nValentin ist 29 Jahre alt, kommt aus Pforzheim und wohnt aktuell in #München. Seit Juni unterstützt er uns in der Rolle als Head of Strategy &amp; Venture Development. \n⁠\nWir freuen uns sehr, dass du on board bist! 🚀⁠ https://t.co/t4YAEQw0ah",
+            "author_id": "1230948006838534144"
+        },
+        {
+            "created_at": "2022-07-08T14:29:29.000Z",
+            "id": "1545414774569111552",
+            "text": "Flute Concerto by Friedrich Graf / Southwest German Chamber Orchestra, Pforzheim Johannes Moesus Gaby Pas-Van Riet, flute / CPO 777 724",
+            "author_id": "980582123236028416"
+        },
+        {
+            "created_at": "2022-07-08T14:16:01.000Z",
+            "id": "1545411384216883202",
+            "text": "#News #Blaulicht POL-Pforzheim: (PF) Pforzheim - Beamte des Polizeipräsidiums erfolgreich bei Polizeilandesmeisterschaften im Schießen (FOTO) - https://t.co/wsxRwFmawz https://t.co/kFnPIuVzwQ",
+            "author_id": "1420498158577242116"
+        },
+        {
+            "created_at": "2022-07-08T13:52:54.000Z",
+            "id": "1545405569879740417",
+            "text": "@kesseltv Du bist in Pforzheim?!",
+            "author_id": "3379102468"
+        },
+        {
+            "created_at": "2022-07-08T13:46:50.000Z",
+            "id": "1545404042804969473",
+            "text": "@patrickwiral Pforzheim",
+            "author_id": "21081620"
+        },
+        {
+            "created_at": "2022-07-08T13:46:09.000Z",
+            "id": "1545403868049248257",
+            "text": "&lt;-150&gt;\n...\nBADENOVA STADWERKE PFORZHEIM PEGQSUS KUNDEN SIND BETROFFEN.\nSCHNELL ZAHLEN NEHMEN UM DIESE FURIER ZU STOPPEN DIE SPIELT FSCH RUM.",
+            "author_id": "1081082286324490241"
+        },
+        {
+            "created_at": "2022-07-08T13:40:18.000Z",
+            "id": "1545402399157796864",
+            "text": "Lesetipp: Wie sich der Leitzins auf Ihre Zinsen auswirkt | Sparkasse Pforzheim Calw - Blog https://t.co/Rsyv1QFOqA, see more https://t.co/UDjnCPZdQy",
+            "author_id": "19447047"
+        },
+        {
+            "created_at": "2022-07-08T13:37:19.000Z",
+            "id": "1545401648037650433",
+            "text": "RT @SaumurChinon: @ActusPays Oui voilà ca va mieux en le disant . Et 17 morts pour une ville de 110000 habitants, évacuée ou il en réside 2…",
+            "author_id": "1648697124"
+        },
+        {
+            "created_at": "2022-07-08T13:35:49.000Z",
+            "id": "1545401267559727106",
+            "text": "@JoGoebel @RegierungBW @WinneHermann In Pforzheim nur die Bäckerei Toifl in der Nordstadt. Im Enzkreis der Erinnerung nach eher nur Bäckereien rechts von Pforzheim.",
+            "author_id": "105591210"
+        },
+        {
+            "created_at": "2022-07-08T13:33:11.000Z",
+            "id": "1545400605589520389",
+            "text": "@ActusPays Oui voilà ca va mieux en le disant . Et 17 morts pour une ville de 110000 habitants, évacuée ou il en réside 23 000, c'est un peu mieux que le bombardement de Pforzheim par les anglais 17000 morts civils en 20 minutes. 3/4 de la ville détruite. Par exemple.",
+            "author_id": "1230297852146044930"
+        },
+        {
+            "created_at": "2022-07-08T13:15:47.000Z",
+            "id": "1545396226278948865",
+            "text": "@PolizeiPF Pforzheim. Da weiß eins doch gleich, was kommt. Die sind dort im letzten Jahrtausend steckengeblieben.",
+            "author_id": "1132721884221640711"
+        },
+        {
+            "created_at": "2022-07-08T13:03:45.000Z",
+            "id": "1545393199904063490",
+            "text": "Weißt du, welche Bäckereien bei der #Pendlerbrezel in #Pforzheim und im #Enzkreis mitgemacht haben? Auf der Karte der @RegierungBW wird nix mehr angezeigt. @Natenom CC @WinneHermann",
+            "author_id": "79946862"
+        },
+        {
+            "created_at": "2022-07-08T12:13:23.000Z",
+            "id": "1545380525262643200",
+            "text": "RT @Michael_Karalus: Eigentlich wäre das heute schön. Uneigentlich habe ich nächste Woche Klausuraufsichten. Und ich will nicht derjenige s…",
+            "author_id": "246338368"
+        },
+        {
+            "created_at": "2022-07-08T12:00:44.000Z",
+            "id": "1545377339290296320",
+            "text": "#News #Blaulicht POL-Pforzheim: (Enzkreis) Remchingen - Motorradfahrer bei Verkehrsunfall schwer verletzt - https://t.co/UmeSZYWZze https://t.co/zNMNS6yhCn",
+            "author_id": "1420498158577242116"
+        },
+        {
+            "created_at": "2022-07-08T12:00:16.000Z",
+            "id": "1545377225188511748",
+            "text": "Eigentlich wäre das heute schön. Uneigentlich habe ich nächste Woche Klausuraufsichten. Und ich will nicht derjenige sein, der Corona in die Hochschule schleppt.\nhttps://t.co/oFpKsH6HBS",
+            "author_id": "1118474756590796800"
+        },
+        {
+            "created_at": "2022-07-08T11:59:49.000Z",
+            "id": "1545377108645613568",
+            "text": "@patrickwiral Pforzheim 🥴",
+            "author_id": "1388816280103399425"
+        },
+        {
+            "created_at": "2022-07-08T11:54:29.000Z",
+            "id": "1545375767571628032",
+            "text": "BMW VANguard Pforzheim university 1st semester project https://t.co/On83QiDoFS",
+            "author_id": "971484858693414912"
+        },
+        {
+            "created_at": "2022-07-08T11:46:13.000Z",
+            "id": "1545373687351746562",
+            "text": "#News #Blaulicht POL-Pforzheim: (Enzkreis) Maulbronn - Verkehrsunfall mit drei beteiligten Fahrzeugen und drei Leichtverletzten - https://t.co/H7IcD4EGdV https://t.co/vA69fGuyaC",
+            "author_id": "1420498158577242116"
+        },
+        {
+            "created_at": "2022-07-08T11:34:26.000Z",
+            "id": "1545370723308412928",
+            "text": "Calling all future business professionals!\nYuk ikuti online seminar dari DAAD Regional Office Jakarta bersama Pforzheim University pada:\n\n📆 : Rabu, 27 Juli 2022\n⏰ : 15.00 – 16.00 (WIB/GMT+7)\n📍 : Via Webex, registrasi melalui: https://t.co/HnehEfdd4E\n\nDon't miss the event! https://t.co/EFQFNRxlr1",
+            "author_id": "950967018"
+        },
+        {
+            "created_at": "2022-07-08T11:17:26.000Z",
+            "id": "1545366444728324096",
+            "text": "#News #Blaulicht POL-Pforzheim: (PF) Pforzheim- Einbruch in Mehrfamilienhaus - https://t.co/uEb0sF4ncU https://t.co/csKDZFL9V3",
+            "author_id": "1420498158577242116"
+        },
+        {
+            "created_at": "2022-07-08T11:09:39.000Z",
+            "id": "1545364485631840258",
+            "text": "Wegen #A8-Ausbau: B10 zwischen #Pforzheim-Eutingen und Niefern eine Nacht lang voll gesperrt: https://t.co/ys5DOkGCg5",
+            "author_id": "24165538"
+        },
+        {
+            "created_at": "2022-07-08T11:07:45.000Z",
+            "id": "1545364008638742528",
+            "text": "RT @pforzheimgram: Alle Informationen unter dieser Url: https://t.co/0XlnlrVWQU #pforzheim #pforzheimgram #badenwürttemberg Ausgesucht von…",
+            "author_id": "1305951228539658240"
+        },
+        {
+            "created_at": "2022-07-08T11:06:29.000Z",
+            "id": "1545363688768643073",
+            "text": "RT @MkangoResources: Mkango &amp; #HyProMag pleased to be part of of this €14m project to strengthen #RareEarths supply chains - also great to…",
+            "author_id": "356531187"
+        },
+        {
+            "created_at": "2022-07-08T10:55:56.000Z",
+            "id": "1545361034575241221",
+            "text": "I'm at Pforzheim Hauptbahnhof in Pforzheim, Baden-Württemberg https://t.co/ubf56vpN3o",
+            "author_id": "113714293"
+        },
+        {
+            "created_at": "2022-07-08T10:52:42.000Z",
+            "id": "1545360220548960257",
+            "text": "+++ Einbruch in Mehrfamilienhaus +++\n#Pforzheim\n\nAm Donnerstagvormittag ist ein bislang unbekannter Täter in eine Wohnung in einem Mehrfamilienhaus, in der Stückhäldenstraße, eingedrungen und hat einen Bargeldbetrag im fünfstelligen Bereich gestohlen.\n\nhttps://t.co/wXpghWx79n https://t.co/QSllTkXCfn",
+            "author_id": "1184022676488314880"
+        },
+        {
+            "created_at": "2022-07-08T10:20:17.000Z",
+            "id": "1545352062803779584",
+            "text": "RT @MkangoResources: Mkango &amp; #HyProMag pleased to be part of of this €14m project to strengthen #RareEarths supply chains - also great to…",
+            "author_id": "1028989911620349959"
+        },
+        {
+            "created_at": "2022-07-08T10:12:53.000Z",
+            "id": "1545350200616697857",
+            "text": "RT @MkangoResources: Mkango &amp; #HyProMag pleased to be part of of this €14m project to strengthen #RareEarths supply chains - also great to…",
+            "author_id": "130803962"
+        },
+        {
+            "created_at": "2022-07-08T09:58:29.000Z",
+            "id": "1545346573852442630",
+            "text": "@Michael_Karalus @PolizeiPF ▶️ kurz Bescheid. Habe die Durchwahl des #Ordnungsamts Pforzheim schon unter Handytaste 2 eingespeichert.",
+            "author_id": "1204436494355701761"
+        },
+        {
+            "created_at": "2022-07-08T09:42:47.000Z",
+            "id": "1545342624164462592",
+            "text": "Alle Informationen unter dieser Url: https://t.co/0XlnlrVWQU #pforzheim #pforzheimgram #badenwürttemberg Ausgesucht von @ste7130 https://t.co/hR33ctZGDa",
+            "author_id": "936719821064097797"
+        },
+        {
+            "created_at": "2022-07-08T09:32:59.000Z",
+            "id": "1545340158744170496",
+            "text": "#News #Blaulicht POL-Pforzheim: (CW) Simmozheim - Zwei Verletzte nach Verkehrsunfall - https://t.co/vEUlGaIXkF https://t.co/DbYxXWxwMq",
+            "author_id": "1420498158577242116"
+        },
+        {
+            "created_at": "2022-07-08T09:32:11.000Z",
+            "id": "1545339957862141952",
+            "text": "@hansulrich Wenns scheiße war wurde entweder Stuttgart oder Pforzheim besucht...",
+            "author_id": "1474069602816692225"
+        },
+        {
+            "created_at": "2022-07-08T09:30:37.000Z",
+            "id": "1545339564952256514",
+            "text": "#News #Blaulicht POL-Pforzheim: (PF) Pforzheim - Diebstahl aus Pkw - https://t.co/mpsxmlpng4 https://t.co/UClqGwS2xL",
+            "author_id": "1420498158577242116"
+        },
+        {
+            "created_at": "2022-07-08T09:20:44.000Z",
+            "id": "1545337077679591424",
+            "text": "M'y friends. @ Pforzheim Hauptbahnhof https://t.co/gWmze26JZ6",
+            "author_id": "1485182559306891265"
+        },
+        {
+            "created_at": "2022-07-08T09:06:38.000Z",
+            "id": "1545333527998353409",
+            "text": "Badenser halt! @ Pforzheim Hauptbahnhof https://t.co/SmLHuOqlzM",
+            "author_id": "1485182559306891265"
+        },
+        {
+            "created_at": "2022-07-08T09:00:12.000Z",
+            "id": "1545331908736950272",
+            "text": "@tuessl @CargoHey Na dann gute Fahrt, weit ist es ja nicht, am Rhein entlang und dann über Pforzheim? Oder 9 € Ticket?",
+            "author_id": "239812843"
+        },
+        {
+            "created_at": "2022-07-08T08:45:49.000Z",
+            "id": "1545328289572593664",
+            "text": "#News #Blaulicht POL-Pforzheim: (Enzkreis) Neuenbürg - Fischdiebstahl - https://t.co/xOqDwAb6By https://t.co/8TMRFfirU3",
+            "author_id": "1420498158577242116"
+        },
+        {
+            "created_at": "2022-07-08T08:45:37.000Z",
+            "id": "1545328237840142338",
+            "text": "Werkzaamheden ⚒️ in #Duitsland op de #A8 Karlsruhe ► Stuttgart, bij Pforzheim 10 km +35 min.",
+            "author_id": "259787794"
+        },
+        {
+            "created_at": "2022-07-08T08:41:08.000Z",
+            "id": "1545327108100079616",
+            "text": "@Natenom Wo kann man so fahren? In der vierten Klasse bei der Polizei auf dem Fahrradübungsplatz. Danach habe ich das nicht in Erinnerung. Ich zitiere dich \"aus dem Vorhof zur Hölle\". Pforzheim.",
+            "author_id": "1500031172491026432"
+        }
+    ],
+    "meta": {
+        "newest_id": "1545704034933301250",
+        "oldest_id": "1545327108100079616",
+        "result_count": 100,
+        "next_token": "b26v89c19zqg8o3fpz2mg4tv8iriw6cmzy1z568q5iu7x"
+    }
+}
