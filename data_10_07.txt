@@ -1,0 +1,610 @@
+{
+    "data": [
+        {
+            "created_at": "2022-07-10T11:49:13.000Z",
+            "id": "1546099217009197060",
+            "author_id": "1181927239",
+            "text": "Heute vor 54 Jahren! 🌪️#Tornado #Pforzheim https://t.co/2s86JkCsen"
+        },
+        {
+            "created_at": "2022-07-10T11:31:17.000Z",
+            "id": "1546094704864989184",
+            "author_id": "1375959707689615364",
+            "text": "Jetzt geht es weiter im #Fifa22 #Karrieremodus mit Create A Club UFFC Pforzheim jetzt in der zweiten LIga! Schaut mal rein https://t.co/j3AdILWkef https://t.co/w5tLDR4Gvo"
+        },
+        {
+            "created_at": "2022-07-10T11:26:01.000Z",
+            "id": "1546093380786077696",
+            "author_id": "1139456629030686725",
+            "text": "Staplerfahrer (m/w/d) in Wörth am Rhein\n\nDiese und weitere Stellenanzeigen findest du auf https://t.co/sNScwViuiC  🖱️\n\n#ludwigshafen #Karlsruhe #Mannheim #Pforzheim #Speyer #Wörth #germersheim #landau #Ettlingen #bruchsal #job #newjob #supportlocal #picoftheday #bestjob https://t.co/ruv3KAQvND"
+        },
+        {
+            "created_at": "2022-07-10T10:25:28.000Z",
+            "id": "1546078142917357568",
+            "author_id": "408084708",
+            "text": "RT @Gelbkopfamazone: 3,5 h von Pforzheim nach LB. Hunderte frustierte, teilweise verzweifelte Reisende, nachts auf den Bahnsteigen mitten i…"
+        },
+        {
+            "created_at": "2022-07-10T10:16:25.000Z",
+            "id": "1546075866601512960",
+            "author_id": "1221761662740463616",
+            "text": "RT @GRANDFINERY: Vintage Meyle &amp; Mayer Pforzheim Sterling White Enamel Cigarette Case 935 Silver ~ https://t.co/1FI16PEA2v GrandVintageFine…"
+        },
+        {
+            "created_at": "2022-07-10T10:07:00.000Z",
+            "id": "1546073496480006146",
+            "author_id": "2419492255",
+            "text": "Sowohl @regiopraxis als auch Die Impfstelle in Pforzheim sind wohl auf der Karte der Impforte zu erkennen (falls ich Landkreise in BaWü richtig dekodiert habe). Danke an euch! (Und: Sichtbarkeit in der Statistik, das ist schon was) Cc @kleinleise https://t.co/KbhYdZArNB"
+        },
+        {
+            "created_at": "2022-07-10T09:58:04.000Z",
+            "id": "1546071248156909571",
+            "author_id": "356565974",
+            "text": "@pznews Die Schlossberghöfe in Pforzheim spalten die Gemüter - Kritiker könnten Recht behalten - Pforzheim - Pforzheimer-Zeitung https://t.co/KRiCXBBlJz  .. ein Modell das keiner mehr ausübt ... aber die Stadt liebt die Spekulationen ..."
+        },
+        {
+            "created_at": "2022-07-10T09:49:29.000Z",
+            "id": "1546069086790189056",
+            "author_id": "356565974",
+            "text": "@pznews Die Schlossberghöfe in Pforzheim spalten die Gemüter - Kritiker könnten Recht behalten - Pforzheim - Pforzheimer-Zeitung https://t.co/KRiCXBBlJz  ein Model das keiner mehr macht,oder ? Lernt man nicht aus Fehlern ... aber die Stadt liebt Spekulationen auf kosten anderer !"
+        },
+        {
+            "created_at": "2022-07-10T09:42:38.000Z",
+            "id": "1546067360875937793",
+            "author_id": "936719821064097797",
+            "text": "Alle Informationen unter dieser Url: https://t.co/wIjya5qpCi #pforzheim #pforzheimgram #badenwürttemberg Ausgesucht von @ste7130 https://t.co/cE0xYUfZ6d"
+        },
+        {
+            "created_at": "2022-07-10T09:38:37.000Z",
+            "id": "1546066351294488576",
+            "author_id": "3235981942",
+            "text": "Vom 14. - 16. Juli 2022 findet die inzwischen 28. Ausgabe vom Happiness Festival in Straubenhardt bei Pforzheim statt.\n\nSeit Wochen steigt bei uns die Vorfreude auf das charmante Festival.\n\nhttps://t.co/9QatL94otn https://t.co/EwkM4yZJEP"
+        },
+        {
+            "created_at": "2022-07-10T09:25:44.000Z",
+            "id": "1546063110980730880",
+            "author_id": "902085877",
+            "text": "3,5 h von Pforzheim nach LB. Hunderte frustierte, teilweise verzweifelte Reisende, nachts auf den Bahnsteigen mitten im Gäu. Wir waren dabei 😫"
+        },
+        {
+            "created_at": "2022-07-10T09:21:52.000Z",
+            "id": "1546062135104602112",
+            "author_id": "1411270748266807296",
+            "text": "RT @pforzheimgram: Alle Informationen unter dieser Url: https://t.co/u6MmLuBdRq #pforzheim #pforzheimgram #badenwürttemberg Ausgesucht von…"
+        },
+        {
+            "created_at": "2022-07-10T09:21:32.000Z",
+            "id": "1546062053147803648",
+            "author_id": "902085877",
+            "text": "Wir waren gestern mit dem #9euroticket zum Wandern im Nordschwarzwald. Kaum in der Sbahn drin, wurde die Oberleitungsstörung in S Hbf tief gemeldet. Im gesamten Großraum ging fast gar nichts mehr. Bis Pforzheim, bis in die Nacht hinein, alles gestört. \nUm 1h endlich zuhause. 😔"
+        },
+        {
+            "created_at": "2022-07-10T09:17:55.000Z",
+            "id": "1546061143948632064",
+            "author_id": "729244555120381953",
+            "text": "der andere Schwarzwaldtraum  ... https://t.co/OLOSgjQMSE #Fantasy #fiction #Amazon #Kindle #historicalFantasy #mustread #look4books #indiebooks  #books #Schwarzwald #Pforzheim #paperbacks #Paperback #book #ebook #urbanfantasy #mystery #suspense #Mustread #BadWildbad https://t.co/virV89Q0yg"
+        },
+        {
+            "created_at": "2022-07-10T09:17:44.000Z",
+            "id": "1546061095667961857",
+            "author_id": "729244555120381953",
+            "text": "kein Spiegel wie der andere ... https://t.co/0AKejeTyaa\n#fiction #Amazon #Kindle #Fantasy #historicalfantasy #Schwarzwald #Pforzheim #Spiegel #Herz #ebook #books #Mustread #look4books #KindleUnlimited #paperbacks #Paperback #HistoricalFiction #cover #mystery #suspense https://t.co/lipNh7eL3D"
+        },
+        {
+            "created_at": "2022-07-10T09:15:42.000Z",
+            "id": "1546060586559148032",
+            "author_id": "123258168",
+            "text": "mehr als nur Schwert Fechten lernen, bei Fecht-Hut  https://t.co/2wsjItpoah #Training #sports #Schule #school  #Kampfkunst  #Karlsruhe #Pforzheim  #Schwarzwald https://t.co/ZrHHKsTyyt"
+        },
+        {
+            "created_at": "2022-07-10T09:08:16.000Z",
+            "id": "1546058715828305920",
+            "author_id": "702483013750366208",
+            "text": "RT @msur0711: #StZ: \"Ob sich das Projekt einmal mit der Umnutzung der alten Eisenbahnbrücke für Radfahrer/Fußgänger verknüpfen lässt, steht…"
+        },
+        {
+            "created_at": "2022-07-10T09:06:34.000Z",
+            "id": "1546058284406300675",
+            "author_id": "24165538",
+            "text": "Die #Schlossberghöfe in #Pforzheim spalten die Gemüter - Kritiker könnten Recht behalten\nhttps://t.co/XUVWpZ4f8C"
+        },
+        {
+            "created_at": "2022-07-10T08:20:24.000Z",
+            "id": "1546046669669662721",
+            "author_id": "2606233777",
+            "text": "Heute Vormittag Queen-Gottesdienst in Heidelberg, am Nachmittag Tangomesse in Pforzheim. Cooler #Sonntag! Und ihr so?\n#prallesLeben #Queen"
+        },
+        {
+            "created_at": "2022-07-10T08:09:00.000Z",
+            "id": "1546043800052813824",
+            "author_id": "1420280788436897793",
+            "text": "@MatthiasBuerkle Heut geht's in den Biergarten nach Pforzheim. Rambazamba, Feiern, tanzen, schlemmen, trinken.\nAllen Weltuntergangsgagaisten zum Trotz."
+        },
+        {
+            "created_at": "2022-07-10T08:00:04.000Z",
+            "id": "1546041550853099522",
+            "author_id": "743419383591075840",
+            "text": "Fehler an Betonbauteilen für eine Brücke über die Autobahn 8 bei Pforzheim könnten laut einem Medienbericht zu mehrmonatigen Verzögerungen führen.\nhttps://t.co/JokMI34h3i"
+        },
+        {
+            "created_at": "2022-07-10T07:24:39.000Z",
+            "id": "1546032637323759617",
+            "author_id": "1367862514579542017",
+            "text": "@RenaWo2 @rki_de 🦠 Heute sind leider noch keine Daten verfügbar. Gestern wurden 67 #Neuinfektionen  ↘ und 0 Todesfälle  ➡ in Pforzheim (Stadtkreis) gemeldet. Die #Inzidenz liegt bei 433,30  ↘. #COVID19 https://t.co/8A4xfjZ0Pb"
+        },
+        {
+            "created_at": "2022-07-10T07:24:19.000Z",
+            "id": "1546032552741314560",
+            "author_id": "1203392353400164352",
+            "text": "@D64_Covidbot @rki_de Pforzheim"
+        },
+        {
+            "created_at": "2022-07-10T07:06:10.000Z",
+            "id": "1546027985748336640",
+            "author_id": "24165538",
+            "text": "Alle unter einem Dach: #Ukrainische Wohngemeinschaft lebt sich in ehemaliger Unternehmer-Villa in Pforzheim ein\nhttps://t.co/9t8EhyoWOw"
+        },
+        {
+            "created_at": "2022-07-10T03:53:53.000Z",
+            "id": "1545979596604063744",
+            "author_id": "1356727729056583687",
+            "text": "RT @Bearded78227296: 2 Kerle in Pforzheim suchen geilen haarigen Kerl...... https://t.co/07vd8k8dtH"
+        },
+        {
+            "created_at": "2022-07-10T03:44:15.000Z",
+            "id": "1545977173726593029",
+            "author_id": "1305951228539658240",
+            "text": "RT @pforzheimgram: Alle Informationen unter dieser Url: https://t.co/u6MmLuBdRq #pforzheim #pforzheimgram #badenwürttemberg Ausgesucht von…"
+        },
+        {
+            "created_at": "2022-07-10T03:09:07.000Z",
+            "id": "1545968331060125698",
+            "author_id": "2463866160",
+            "text": "KAMERUN: #Frankreichs Dysfunktionales Marionettensystem in #Afrika https://t.co/tSQHHZOsNR #Regensburg #Würzburg #Ingolstadt #Heilbronn #Ulm #Wolfsburg #Göttingen #Offenbach #Pforzheim #Recklinghausen #Stade #Hennef #Buende #Meiderich #Wismar #Zurich #Wien #Graz #Linz #Österreich"
+        },
+        {
+            "created_at": "2022-07-09T22:49:17.000Z",
+            "id": "1545902942779236352",
+            "author_id": "1125961824938147840",
+            "text": "@spannerraupe Die erste Fahrt mit dem Benz Motorwagen war auch nicht von Mannheim nach Pforzheim, sondern von Nernberch über Erlangen und Neustadt Aisch nach Altschauerberg"
+        },
+        {
+            "created_at": "2022-07-09T20:42:37.000Z",
+            "id": "1545871064621801472",
+            "author_id": "936719821064097797",
+            "text": "Alle Informationen unter dieser Url: https://t.co/u6MmLuBdRq #pforzheim #pforzheimgram #badenwürttemberg Ausgesucht von @ste7130 https://t.co/mPj1p3qhF4"
+        },
+        {
+            "created_at": "2022-07-09T19:29:12.000Z",
+            "id": "1545852587571908609",
+            "author_id": "1447191304493019142",
+            "text": "@hansulrich Da müsste jemand unbedingt nach Pforzheim"
+        },
+        {
+            "created_at": "2022-07-09T18:58:22.000Z",
+            "id": "1545844830319910914",
+            "author_id": "747113754006065152",
+            "text": "Die Wolkenfront im Norden wird in der nächsten Stunde Richtung Südosten über #Pforzheim ziehen und voraussichtlich etwas Regen und Wind bringen. Gibt aktuell KEINE Unwetterwarnung."
+        },
+        {
+            "created_at": "2022-07-09T18:53:30.000Z",
+            "id": "1545843606375657472",
+            "author_id": "747113754006065152",
+            "text": "150 Betriebsräte beim Betriebsräteauftakt der IG Metall Pforzheim https://t.co/LVO0tGZiaD"
+        },
+        {
+            "created_at": "2022-07-09T18:19:16.000Z",
+            "id": "1545834991472594945",
+            "author_id": "80504067",
+            "text": "The stretch between Weil der Stadt and Pforzheim is a cyclist dream, if it weren’t for all the German drivers. \n\n74.86 km (517 m elevation gain) https://t.co/6eUREoblzG"
+        },
+        {
+            "created_at": "2022-07-09T18:00:04.000Z",
+            "id": "1545830158749339648",
+            "author_id": "740497929786511361",
+            "text": "😜 Sicherheitsmitarbeiter (m/w/d) gesucht!\n🧐 Jetzt bewerben!\n #jobs #pforzheim #sicherheitsmitarbeiter #bechtold #gruppe #sicherheitsdienst #security #werkschutz\n\nhttps://t.co/SexA8qpsN8"
+        },
+        {
+            "created_at": "2022-07-09T17:15:11.000Z",
+            "id": "1545818864986079234",
+            "author_id": "419809528",
+            "text": "RT @GRANDFINERY: Vintage Meyle &amp; Mayer Pforzheim Sterling White Enamel Cigarette Case 935 Silver ~ https://t.co/1FI16PEA2v GrandVintageFine…"
+        },
+        {
+            "created_at": "2022-07-09T17:13:19.000Z",
+            "id": "1545818394884296705",
+            "author_id": "36973702",
+            "text": "Vintage Meyle &amp; Mayer Pforzheim Sterling White Enamel Cigarette Case 935 Silver ~ https://t.co/1FI16PEA2v GrandVintageFinery https://t.co/G3ozs9AC3O"
+        },
+        {
+            "created_at": "2022-07-09T17:09:16.000Z",
+            "id": "1545817373050937344",
+            "author_id": "899815465236680704",
+            "text": "RT @risemelbourne: Pforzheim Germany 🇩🇪 Anti Pandemic BS, Anti Everything 👊 The Freedoms you lose today will 𝙉𝙚𝙫𝙚𝙧 be returned...So do 𝙒𝙝𝙖𝙩…"
+        },
+        {
+            "created_at": "2022-07-09T17:00:17.000Z",
+            "id": "1545815112883343360",
+            "author_id": "817096872766672897",
+            "text": "🍆 Sparen Sie mit KLIVER! Gültig vom 11.07.22 bis 16.07.22 https://t.co/Xy3RFE2lFO"
+        },
+        {
+            "created_at": "2022-07-09T16:40:30.000Z",
+            "id": "1545810133518876674",
+            "author_id": "24165538",
+            "text": "Mit dieser Masche schlagen #Trickbetrüger in Pforzheim wieder zu: https://t.co/xrozJVyAW0"
+        },
+        {
+            "created_at": "2022-07-09T16:27:51.000Z",
+            "id": "1545806950264410112",
+            "author_id": "2198723234",
+            "text": "@OliverSKBerlin @mrs_von_und_zu Nix hier in Langenald, zwischen Pforzheim und Karlsruhe.\nAber letztes Jahr war ich in Strasbourg als es dort eins der Stärke 4 gab.\nIch hab gedacht unten wär ein riesiger LKW ins Haus gefahren...\nWar auch nur ein Schlag, weil nur wenige KM entfernt."
+        },
+        {
+            "created_at": "2022-07-09T15:54:59.000Z",
+            "id": "1545798680313217030",
+            "author_id": "1264362612453752833",
+            "text": "Pforzheim Germany 🇩🇪 Anti Pandemic BS, Anti Everything 👊你今天失去的自由将𝙉𝙚𝙫𝙚𝙧被归还......你也可以𝙒𝙝𝙖𝙩𝙚𝙫𝙚𝙧你可以𝘿𝙞𝙨𝙧𝙪𝙥𝙩他们的计划💣 https://t.co/xAnLdoPfYY"
+        },
+        {
+            "created_at": "2022-07-09T15:40:32.000Z",
+            "id": "1545795044354973696",
+            "author_id": "15929362",
+            "text": "Die zuständige Baufirma müsse dafür geradestehen und die Fehler beheben👷 https://t.co/3dv7Pq04HN\n#a8 #pforzheim #pforzheimbaustelle https://t.co/0yrHYJPOQj"
+        },
+        {
+            "created_at": "2022-07-09T15:30:25.000Z",
+            "id": "1545792497737146369",
+            "author_id": "823446593240231936",
+            "text": "@RealEarthParty @Northmans77 https://t.co/ChMr8Kz4NJ"
+        },
+        {
+            "created_at": "2022-07-09T15:17:03.000Z",
+            "id": "1545789135595524097",
+            "author_id": "1504855210648391684",
+            "text": "#PZnews #BadWildbad #Lokalpolitik #Interview „Jeder Tag hat so viele Themen“: Bad Wildbads Bürgermeister spricht über seine ersten 100 Tage im Amt - Pforzheim - Pforzheimer-Zeitung https://t.co/Y9nq9Be8nT"
+        },
+        {
+            "created_at": "2022-07-09T15:08:34.000Z",
+            "id": "1545786997939355650",
+            "author_id": "1125347498619490304",
+            "text": "FACING DOWN UNDER - DIE DOKU EINES BACKPACKERS\nAuf KINOTOUR mit Regisseur Chris Hartung - Heute in #Pforzheim!\nAlle Termine: https://t.co/c4rvFpXP1I\n\n#CaminoFilmverleih #BuschMediaGroup #FacingDownUnder #Australien #Doku #Dokumentation #Backpacker #WorkandTravel #Kino #Kinotour https://t.co/3y88V08kih"
+        },
+        {
+            "created_at": "2022-07-09T15:05:48.000Z",
+            "id": "1545786302389522433",
+            "author_id": "3982316902",
+            "text": "@RolandRides In bergigem Terrain machen Pedelecs durchaus Sinn. Im #fahrradmordor Pforzheim hier um die Ecke gibt es aber auch wackere Streiter, die sich tatsächlich auf Landstraßen wagen, ohne Hilfsantrieb. Respekt!"
+        },
+        {
+            "created_at": "2022-07-09T14:22:44.000Z",
+            "id": "1545775463062282241",
+            "author_id": "79946862",
+            "text": "Hätte mir fast ne #Pizza Margherita geholt für 6,40€. #Pforzheim 🍕 https://t.co/wrteVvsNNa"
+        },
+        {
+            "created_at": "2022-07-09T14:11:32.000Z",
+            "id": "1545772643927920640",
+            "author_id": "2570810788",
+            "text": "@pfbits Da ist man einmal nicht in Pforzheim"
+        },
+        {
+            "created_at": "2022-07-09T13:30:51.000Z",
+            "id": "1545762408689434624",
+            "author_id": "878964397103775744",
+            "text": "@hs_pforzheim BOB-Sonderfahrplan zum Seehasenfest\n #Stundentakt #9EuroTicket #Sonderfahrplan #BOB #Seehasenfest #Friedrichshafen #Wochenblattnews\n\nhttps://t.co/YakXf5Lh8N"
+        },
+        {
+            "created_at": "2022-07-09T13:10:51.000Z",
+            "id": "1545757372513140736",
+            "author_id": "2596997352",
+            "text": "@DesertBlooom Danach kommt nur noch  Darmstadt... Und pforzheim."
+        },
+        {
+            "created_at": "2022-07-09T13:08:11.000Z",
+            "id": "1545756704926744582",
+            "author_id": "1041350253713088512",
+            "text": "716 Pforzheim ZOB/Hbf https://t.co/q7HOwaJGCC"
+        },
+        {
+            "created_at": "2022-07-09T12:54:23.000Z",
+            "id": "1545753231120371712",
+            "author_id": "4478739861",
+            "text": "Alles kein Problem, betrifft ja nur die Radfahrer auf dem Enztalradweg 🙈\nhttps://t.co/wdIV0IVIyx"
+        },
+        {
+            "created_at": "2022-07-09T12:40:58.000Z",
+            "id": "1545749854575640576",
+            "author_id": "24165538",
+            "text": "\"Haus hat komplett gewackelt\" - #Erdbeben bei Hechingen auch in Pforzheim, im Enzkreis und im Kreis Calw spürbar: https://t.co/ggdBozwT50"
+        },
+        {
+            "created_at": "2022-07-09T12:32:14.000Z",
+            "id": "1545747655195762688",
+            "author_id": "18771392",
+            "text": "@gerdcastan #Edbeben in Pforzheim fühlte es sich an, wie wenn das Haus über eine Bodenwelle fährt."
+        },
+        {
+            "created_at": "2022-07-09T12:23:03.000Z",
+            "id": "1545745345052921856",
+            "author_id": "4089726855",
+            "text": "RT @KilimGazetesi: MÜSİAD Karlsruhe Çıtayı Yükseltti: MÜSİAD Karlsruhe Başkanı Kâmil Manzak ve Ekibi, Alman resmi makamlarıyla iş birliği ç…"
+        },
+        {
+            "created_at": "2022-07-09T12:13:03.000Z",
+            "id": "1545742830295027712",
+            "author_id": "1388137427416588290",
+            "text": "In Pforzheim hat es auch gewackelt 🥺#erdbeben"
+        },
+        {
+            "created_at": "2022-07-09T12:03:06.000Z",
+            "id": "1545740325720817665",
+            "author_id": "20301087",
+            "text": "RT @Zwetschge_1893: Habt Ihr gerade auch das Erdbeben gespürt 😳? Hier in Pforzheim!"
+        },
+        {
+            "created_at": "2022-07-09T11:55:17.000Z",
+            "id": "1545738358432972801",
+            "author_id": "356870738",
+            "text": "@kischtrine Pforzheim auch, aber nur schwach"
+        },
+        {
+            "created_at": "2022-07-09T11:52:44.000Z",
+            "id": "1545737714103975938",
+            "author_id": "1292704071066030081",
+            "text": "@AlexisTaga Pforzheim auch gut gewackelt"
+        },
+        {
+            "created_at": "2022-07-09T11:52:29.000Z",
+            "id": "1545737652292534272",
+            "author_id": "15170704",
+            "text": "RT @pfbits: Wer sich ein #Erdbeben gerade eingebildet hat, kann beruhigt sein.. es war eines. Wir warten auf nähere Infos. #pforzheim"
+        },
+        {
+            "created_at": "2022-07-09T11:52:10.000Z",
+            "id": "1545737571224911872",
+            "author_id": "929082855677988864",
+            "text": "Habt Ihr gerade auch das Erdbeben gespürt 😳? Hier in Pforzheim!"
+        },
+        {
+            "created_at": "2022-07-09T11:51:54.000Z",
+            "id": "1545737505995210753",
+            "author_id": "747113754006065152",
+            "text": "Wer sich ein #Erdbeben gerade eingebildet hat, kann beruhigt sein.. es war eines. Wir warten auf nähere Infos. #pforzheim"
+        },
+        {
+            "created_at": "2022-07-09T11:38:06.000Z",
+            "id": "1545734034185142274",
+            "author_id": "1184022676488314880",
+            "text": "+++ Diebstahl aus Pkw +++\n#Pforzheim\n\nEin bislang unbekannter Täter hat in der Nacht von Mittwoch auf Donnerstag in der Südweststadt Gegenstände aus einem Fahrzeug entwendet.\n\nhttps://t.co/rJjPBs5qt3 https://t.co/sAqjSpyD8W"
+        },
+        {
+            "created_at": "2022-07-09T11:33:24.000Z",
+            "id": "1545732850414080005",
+            "author_id": "1286575566502727681",
+            "text": "einmal pforzheim und geimpft zurück. Danke an die impfstelle für den 2. booster! https://t.co/LHGtJMzuXv"
+        },
+        {
+            "created_at": "2022-07-09T11:10:19.000Z",
+            "id": "1545727039793242117",
+            "author_id": "117036888",
+            "text": "A 8 bei Pforzheim - Fehlerhafte Betonteile verzögern Brückenbau https://t.co/NKU70txuwZ #Stuttgart #Nachrichten"
+        },
+        {
+            "created_at": "2022-07-09T10:49:56.000Z",
+            "id": "1545721911526801410",
+            "author_id": "1070964688555532288",
+            "text": "#Fehler an Betonbauteilen für eine #Brücke über die #A8 bei #Pforzheim könnten zu mehrmonatigen #Verzögerungen führen. \nhttps://t.co/EQTwAotXl7\n\n#meinka #karlsruhe #news #nachrichten #aktuell #bawü"
+        },
+        {
+            "created_at": "2022-07-09T10:28:15.000Z",
+            "id": "1545716454867120128",
+            "author_id": "1427678298352541699",
+            "text": "Pforzheim: Brückenbau bei der A8 dauert länger\nhttps://t.co/RhCaoqVHPs"
+        },
+        {
+            "created_at": "2022-07-09T10:15:14.000Z",
+            "id": "1545713176943140864",
+            "author_id": "1118474756590796800",
+            "text": "@JoGoebel https://t.co/mi0xoKq4y1"
+        },
+        {
+            "created_at": "2022-07-09T10:08:54.000Z",
+            "id": "1545711584781139969",
+            "author_id": "94062657",
+            "text": "Gruß aus Pforzheim \nvielen Dank 💚💉 https://t.co/v12PsSePFf https://t.co/q2zDF6TFVK"
+        },
+        {
+            "created_at": "2022-07-09T09:38:54.000Z",
+            "id": "1545704034933301250",
+            "author_id": "1215270783632756736",
+            "text": "@patrickwiral Pforzheim.\nStuttgart.\nLudwigshafen."
+        },
+        {
+            "created_at": "2022-07-09T09:05:00.000Z",
+            "id": "1545695502607474688",
+            "author_id": "1270058911022886912",
+            "text": "RT @kleinleise: Heute kommen etliche von Ihnen; es wird fast ein Twittertreffen. Falls Wartezeiten entstehen, fragen Sie doch die anderen n…"
+        },
+        {
+            "created_at": "2022-07-09T08:40:53.000Z",
+            "id": "1545689434523320320",
+            "author_id": "1096513606013853697",
+            "text": "RT @kleinleise: Heute kommen etliche von Ihnen; es wird fast ein Twittertreffen. Falls Wartezeiten entstehen, fragen Sie doch die anderen n…"
+        },
+        {
+            "created_at": "2022-07-09T08:20:55.000Z",
+            "id": "1545684410367967232",
+            "author_id": "1430500064288464902",
+            "text": "RT @kleinleise: Heute kommen etliche von Ihnen; es wird fast ein Twittertreffen. Falls Wartezeiten entstehen, fragen Sie doch die anderen n…"
+        },
+        {
+            "created_at": "2022-07-09T08:20:08.000Z",
+            "id": "1545684211411177474",
+            "author_id": "123258168",
+            "text": "Schwert und mehr bei Fecht-Hut  https://t.co/SzOYjBaGYR #Schule #Training  #SelfDefense #Schwarzwald #Pforzheim #Schwert  #Bartitsu #Kampfkunst #Selbstverteidigung #workshops  #sport https://t.co/XdIWiRzCJp"
+        },
+        {
+            "created_at": "2022-07-09T08:16:08.000Z",
+            "id": "1545683204778196992",
+            "author_id": "1448394527941746692",
+            "text": "RT @kleinleise: Heute kommen etliche von Ihnen; es wird fast ein Twittertreffen. Falls Wartezeiten entstehen, fragen Sie doch die anderen n…"
+        },
+        {
+            "created_at": "2022-07-09T08:11:15.000Z",
+            "id": "1545681976669212672",
+            "author_id": "898620970012991488",
+            "text": "RT @kleinleise: Heute kommen etliche von Ihnen; es wird fast ein Twittertreffen. Falls Wartezeiten entstehen, fragen Sie doch die anderen n…"
+        },
+        {
+            "created_at": "2022-07-09T08:10:47.000Z",
+            "id": "1545681858645614593",
+            "author_id": "898620970012991488",
+            "text": "RT @kleinleise: Diese Woche impfen wir \nDienstag, 05.07.2022 16 - 18 Uhr und\nSamstag, 09.07.2022 von 10 - 12 Uhr.\n\n#Pforzheim #U5 \n2. Boost…"
+        },
+        {
+            "created_at": "2022-07-09T08:01:38.000Z",
+            "id": "1545679555670802433",
+            "author_id": "1192983043734200320",
+            "text": "RT @kleinleise: Heute kommen etliche von Ihnen; es wird fast ein Twittertreffen. Falls Wartezeiten entstehen, fragen Sie doch die anderen n…"
+        },
+        {
+            "created_at": "2022-07-09T07:59:12.000Z",
+            "id": "1545678945978302467",
+            "author_id": "1301129989526560774",
+            "text": "RT @kleinleise: Heute kommen etliche von Ihnen; es wird fast ein Twittertreffen. Falls Wartezeiten entstehen, fragen Sie doch die anderen n…"
+        },
+        {
+            "created_at": "2022-07-09T07:49:47.000Z",
+            "id": "1545676574443425793",
+            "author_id": "3234932265",
+            "text": "RT @kleinleise: Heute kommen etliche von Ihnen; es wird fast ein Twittertreffen. Falls Wartezeiten entstehen, fragen Sie doch die anderen n…"
+        },
+        {
+            "created_at": "2022-07-09T07:49:28.000Z",
+            "id": "1545676495011684356",
+            "author_id": "111371654",
+            "text": "RT @kleinleise: Heute kommen etliche von Ihnen; es wird fast ein Twittertreffen. Falls Wartezeiten entstehen, fragen Sie doch die anderen n…"
+        },
+        {
+            "created_at": "2022-07-09T07:46:09.000Z",
+            "id": "1545675662635241472",
+            "author_id": "1276065476041465863",
+            "text": "RT @kleinleise: Heute kommen etliche von Ihnen; es wird fast ein Twittertreffen. Falls Wartezeiten entstehen, fragen Sie doch die anderen n…"
+        },
+        {
+            "created_at": "2022-07-09T07:39:32.000Z",
+            "id": "1545673995193929728",
+            "author_id": "1262950524",
+            "text": "RT @kleinleise: Heute kommen etliche von Ihnen; es wird fast ein Twittertreffen. Falls Wartezeiten entstehen, fragen Sie doch die anderen n…"
+        },
+        {
+            "created_at": "2022-07-09T07:25:09.000Z",
+            "id": "1545670374213517318",
+            "author_id": "4908589852",
+            "text": "RT @kleinleise: Heute kommen etliche von Ihnen; es wird fast ein Twittertreffen. Falls Wartezeiten entstehen, fragen Sie doch die anderen n…"
+        },
+        {
+            "created_at": "2022-07-09T07:21:01.000Z",
+            "id": "1545669336077041666",
+            "author_id": "702483013750366208",
+            "text": "#StZ: \"Ob sich das Projekt einmal mit der Umnutzung der alten Eisenbahnbrücke für Radfahrer/Fußgänger verknüpfen lässt, steht NATÜRLICH in den Sternen\"\nnaklar, #Stuttgart ist nicht N.Y., aber warum nicht wenigstens Pforzheim oder Oberhausen? #Gaskessel\n#Rosensteinbrücke https://t.co/6N13mvMlnI https://t.co/dZv3Oqhxid"
+        },
+        {
+            "created_at": "2022-07-09T07:18:50.000Z",
+            "id": "1545668788204539906",
+            "author_id": "327328208",
+            "text": "RT @kleinleise: Heute kommen etliche von Ihnen; es wird fast ein Twittertreffen. Falls Wartezeiten entstehen, fragen Sie doch die anderen n…"
+        },
+        {
+            "created_at": "2022-07-09T07:13:43.000Z",
+            "id": "1545667500570025987",
+            "author_id": "1129891254",
+            "text": "@christian_neef Mal sehen, ob Sie noch so kriegsbesoffen sind, wenn die Russen Ihren Wohnort bombardiert haben. Oder wenn auf deutschen Boden die ersten taktischen Atomwaffen eingesetzt werden. Schauen Sie sich die Bilder von Dresden oder Pforzheim an. Friedensverhandlungen sofort! https://t.co/0HQOiSE3R6"
+        },
+        {
+            "created_at": "2022-07-09T07:12:27.000Z",
+            "id": "1545667178179039232",
+            "author_id": "2471444810",
+            "text": "RT @kleinleise: Heute kommen etliche von Ihnen; es wird fast ein Twittertreffen. Falls Wartezeiten entstehen, fragen Sie doch die anderen n…"
+        },
+        {
+            "created_at": "2022-07-09T07:12:16.000Z",
+            "id": "1545667135405531137",
+            "author_id": "970345195",
+            "text": "RT @kleinleise: Heute kommen etliche von Ihnen; es wird fast ein Twittertreffen. Falls Wartezeiten entstehen, fragen Sie doch die anderen n…"
+        },
+        {
+            "created_at": "2022-07-09T07:09:18.000Z",
+            "id": "1545666385283530753",
+            "author_id": "1412718367",
+            "text": "RT @kleinleise: Heute kommen etliche von Ihnen; es wird fast ein Twittertreffen. Falls Wartezeiten entstehen, fragen Sie doch die anderen n…"
+        },
+        {
+            "created_at": "2022-07-09T06:53:07.000Z",
+            "id": "1545662312891273217",
+            "author_id": "1100840016971005952",
+            "text": "@patrickwiral Mannheim und Pforzheim"
+        },
+        {
+            "created_at": "2022-07-09T06:40:15.000Z",
+            "id": "1545659076322926594",
+            "author_id": "24165538",
+            "text": "#Klage eingereicht: Anwohner bremst #Parkhaus-Pläne am Siloah-Krankenhaus in Pforzheim aus: https://t.co/1AkOFxs47R"
+        },
+        {
+            "created_at": "2022-07-09T06:09:09.000Z",
+            "id": "1545651251035119616",
+            "author_id": "922794442553208832",
+            "text": "RT @kleinleise: Heute kommen etliche von Ihnen; es wird fast ein Twittertreffen. Falls Wartezeiten entstehen, fragen Sie doch die anderen n…"
+        },
+        {
+            "created_at": "2022-07-09T06:06:30.000Z",
+            "id": "1545650581775081472",
+            "author_id": "321276683",
+            "text": "RT @kleinleise: Heute kommen etliche von Ihnen; es wird fast ein Twittertreffen. Falls Wartezeiten entstehen, fragen Sie doch die anderen n…"
+        },
+        {
+            "created_at": "2022-07-09T06:05:37.000Z",
+            "id": "1545650362631200768",
+            "author_id": "2549556272",
+            "text": "RT @kleinleise: Heute kommen etliche von Ihnen; es wird fast ein Twittertreffen. Falls Wartezeiten entstehen, fragen Sie doch die anderen n…"
+        },
+        {
+            "created_at": "2022-07-09T05:52:29.000Z",
+            "id": "1545647057087651841",
+            "author_id": "281413387",
+            "text": "RT @wayfu: @Ethylendiamin vermute Essen &gt; Dortmund &gt; Darmstadt &gt; Pforzheim"
+        },
+        {
+            "created_at": "2022-07-09T05:50:55.000Z",
+            "id": "1545646660004495360",
+            "author_id": "1478025287245967365",
+            "text": "RT @wayfu: @Ethylendiamin vermute Essen &gt; Dortmund &gt; Darmstadt &gt; Pforzheim"
+        },
+        {
+            "created_at": "2022-07-09T05:50:49.000Z",
+            "id": "1545646637585932288",
+            "author_id": "531325229",
+            "text": "RT @wayfu: @Ethylendiamin vermute Essen &gt; Dortmund &gt; Darmstadt &gt; Pforzheim"
+        },
+        {
+            "created_at": "2022-07-09T05:49:15.000Z",
+            "id": "1545646240372768768",
+            "author_id": "756611547825377280",
+            "text": "RT @kleinleise: Heute kommen etliche von Ihnen; es wird fast ein Twittertreffen. Falls Wartezeiten entstehen, fragen Sie doch die anderen n…"
+        },
+        {
+            "created_at": "2022-07-09T05:44:04.000Z",
+            "id": "1545644936573468673",
+            "author_id": "1467160864562331650",
+            "text": "RT @kleinleise: Heute kommen etliche von Ihnen; es wird fast ein Twittertreffen. Falls Wartezeiten entstehen, fragen Sie doch die anderen n…"
+        }
+    ],
+    "meta": {
+        "newest_id": "1546099217009197060",
+        "oldest_id": "1545644936573468673",
+        "result_count": 100,
+        "next_token": "b26v89c19zqg8o3fpz2mgb8n4v8ljxka7lj3haocvxqil"
+    }
+}

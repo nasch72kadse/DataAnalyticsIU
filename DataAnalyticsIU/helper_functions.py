@@ -17,6 +17,8 @@ def print_top_words(model, feature_names, n_top_words):
 class LemmaCountVectorizer(CountVectorizer):
     def build_analyzer(self):
         analyzer = super(LemmaCountVectorizer, self).build_analyzer()
+        print(self.get_stop_words())
+        print("dsa")
         return lambda doc: (lemm.lemmatize(w) for w in analyzer(doc))
 
 
